@@ -29,7 +29,7 @@ python inference.py --img-mode 0 --video-path /path/to/video
 
 ### Demo
 
-![](img/facemask.gif)
+![output](output.gif)
 
 ### Credit
 
